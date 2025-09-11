@@ -1,23 +1,30 @@
 
-## lec05 remarks
+## unit06 prep
 
-* mindmap
-* assignment instructions
+- [ ] finish lecture 06 (mostly old lecture 07)
+- [ ] finish exercise 06 (mostly old exercise 06 + 07, check menti input)
+- [ ] ASSIGNMENT: mastermind - instructions + help
+
+## lec06 remarks
 
 ***
 
 for the blackboard:
-* keywords (None, raise, pass, import, as)
-* data type (None)
-* methods
-* coding stuff: arguments parameters string formatting
-* built-in modules (math, random, os)
-* packages (pandas, matplotlib)
+* WINDOWS: Anaconda prompt
+* macOS: terminal
+    * CLI commands
+* file formatting: escape characters
+* software stuff: 
+    GUI / CLI
+    python in CLI
+    running .py
+* JN: "magic"
 
 ##  Where to insert:
 * "is" keyword for typechecking
 * try/except
 * sequence comparison: https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types
+* list comprehension
 
 ## For assignment 2:
 * functions with more than 1 parameter
